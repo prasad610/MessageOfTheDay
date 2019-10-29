@@ -1,0 +1,50 @@
+["Never Trust Anyone",
+
+"Quieter you  become \nmore you hear",
+
+"An honest man has nothing to fear,\nSo try to never be afraid",
+
+"\"It\'s Impossible\" said Pride.\n\"It's risky\" said Experience.\n\"It\'s Pointless\" said Reason.\n\"Give it a try\" said doer",
+
+"A single bee is ignored.\nBut when a million come together,\neven the bravest run in fear",
+
+"Be that type of person\nthat when your feet touch the ground\nthe devil says \"Shit, He\'s up\"",
+
+"Religion, Ideology, resources,\nland,spiter,love or just\nbecause.No matter how\npathetic the reason,it's enough to start war\n\t-Pain",
+
+"Life is like a game of chess\nto win you have to make a move\nknowing which move to make\ncomes with knowledge\nwe became each and every piece within the game called life",
+
+"Freedom is an illusion\nbut if it feels real,Does it really matter?",
+
+"Knowledge and awareness \nare vague,and perhaps better\ncalled illusions.Everyone lives\nwithin their own subjective interpretation.\n\t-Itachi Uchiha",
+
+"Fools learn nothing\nfrom wise men\nBut wise men \nlearn so much from fools.",
+
+"Arguing that you don't\ncare about the right to privacy\nbecause you have nothing to hide\nis no different than saying\nyou don't care about free speech\nbecause you have nothing to say.",
+
+"Hardwork Betray None\nDreams Betray Many",
+
+"War never changes.\nBut men do, through the roads\nthey walk.",
+
+"What is better - to be born good or,\nto overcome your evil nature\nthrough great effort?",
+
+"Waka waka waka, waka waka, waka waka\n\n - Pacman",
+
+"It is humility that makes man an angel and pride that turns angel to devils.\n\n - The Fallen(2016)",
+
+"Love gives birth to sacrifice, which bring forth hatred, and lets you know pain.\n\n - Lord Pain",
+
+"Those who can't weild the second blade aren't qualified to be assassin.\n\n - Koro Sensei",
+
+"I am the hope of the universe. I am the answer to all living things that cry out for\npeace. I am protector of the innocent. I am the light in the darkness. I am truth.\nAlly to good! Nightmare to you!\n\n - Goku",
+
+"Be strong enough to stand alone.\nBe yourself enough to stand apart.\nBut be wise enough to stand together when time comes.\n\n - Anonymous",
+
+"It's better to hurt others than be hurt.\n\n - Kaneki Ken",
+
+"Never trust anyone too much, remember the devil was once an angel.",
+
+"When you look at the dark side, careful you must be, for dark side looks back.",
+
+"Remember, efforts trumps most. It can make unlucky, marginal talents soar above timid prodigies.",
+]
