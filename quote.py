@@ -3,11 +3,12 @@ from ast import literal_eval
 from json import dump
 from sys import argv, exit
 from getopt import getopt, GetoptError
+from os.path import abspath, dirname
 
 
 class Quote:
     def __init__(self):
-        with open("Quotes.txt") as input_file:
+        with open(abspath(dirname(argv[0]))+"/"+"Quotes.txt") as input_file:
             self.Quote = literal_eval(input_file.read())
             input_file.close()
         self.main()
